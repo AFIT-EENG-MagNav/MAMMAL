@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1017408340.svg)](https://doi.org/10.5281/zenodo.16420840)
+
 # MAMMAL
 
 MAMMAL - Magnetic Anomaly Map Matching Airborne and Land
